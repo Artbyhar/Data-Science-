@@ -8,6 +8,18 @@
   <a href="Business intelligence">Business Inteligencel</a>
 </li>
 <li>
+  <a href="#">Risk Analysis</a>
+</li>
+<li>
+  <a href="#">Deep Learning</a>
+</li>
+<li>
+  <a href="#">Big Data Analysis</a>
+</li>
+<li>
+  <a href="Large Language Model/Modul.txt">Large Language Model</a>
+</li>
+<li>
   <a href="IoT">AIOT & Data Science</a>
 </li>
 <li>

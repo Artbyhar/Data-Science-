@@ -1,37 +1,38 @@
 🔍 1. Konsep Dasar dan Sejarah LLM
-<a>Apa itu LLM dan bagaimana perkembangannya.</a>
-adalah model kecerdasan buatan yang dilatih menggunakan sejumlah besar data teks untuk memahami dan menghasilkan bahasa alami.
-<a>Evolusi model bahasa dari n-gram, RNN, LSTM, hingga Transformer.</a>
-Model-model terkenal seperti BERT, GPT, T5, dll.
+a. Apa itu LLM dan bagaimana perkembangannya.
+    Adalah model kecerdasan buatan yang dilatih menggunakan sejumlah 
+    besar data teks untuk memahami dan menghasilkan bahasa alami.
+b. Evolusi model bahasa dari n-gram, RNN, LSTM, hingga Transformer.
+c. Model-model terkenal seperti BERT, GPT, T5, dll.
 
 🧠 2. Arsitektur Transformer
-Komponen utama: Attention, Self-Attention, Positional Encoding, Layer Normalization, Feed Forward Layer.
-Encoder vs Decoder vs Encoder-Decoder.
-Studi kasus arsitektur GPT dan BERT.
+a. Komponen utama: Attention, Self-Attention, Positional Encoding, Layer Normalization, Feed Forward Layer.
+b. Encoder vs Decoder vs Encoder-Decoder.
+c. Studi kasus arsitektur GPT dan BERT.
 
 📊 3. Proses Pelatihan dan Fine-tuning
-Dataset pretraining (misalnya Common Crawl, Wikipedia).
-Teknik pelatihan: pretraining vs fine-tuning.
-Transfer learning dalam NLP.
+a. Dataset pretraining (misalnya Common Crawl, Wikipedia).
+b. Teknik pelatihan: pretraining vs fine-tuning.
+c. Transfer learning dalam NLP.
 
 ⚙️ 4. Aplikasi LLM
-Text generation, summarization, translation, question answering, sentiment analysis.
-Chatbot dan virtual assistant.
-Kode otomatisasi (seperti Copilot).
+a. Text generation, summarization, translation, question answering, sentiment analysis.
+b. Chatbot dan virtual assistant.
+c. Kode otomatisasi (seperti Copilot).
 
 📉 5. Evaluasi Model LLM
-Metode evaluasi: perplexity, BLEU, ROUGE, F1 score.
-Human evaluation.
+a. Metode evaluasi: perplexity, BLEU, ROUGE, F1 score.
+b. Human evaluation.
 
 🧱 6. Etika dan Tantangan
-Bias dalam LLM.
-Deepfake, disinformasi, dan penggunaan LLM secara etis.
-Energi dan biaya komputasi.
+a. Bias dalam LLM.
+b. Deepfake, disinformasi, dan penggunaan LLM secara etis.
+c. Energi dan biaya komputasi.
 
 📌 7. Implementasi dan Praktik
-Menggunakan HuggingFace Transformers.
-Implementasi GPT atau BERT untuk proyek mini.
-Fine-tuning model LLM pada dataset spesifik.
+a. Menggunakan HuggingFace Transformers.
+b. Implementasi GPT atau BERT untuk proyek mini.
+c. Fine-tuning model LLM pada dataset spesifik.
 
 ===============================================================================================================================================
 <b>A local LLM (Local Large Language Model)</b> is an AI model that runs directly on your device rather than in the cloud. Kolosal AI is a leading local LLM platform that allows you to download, run, and interact with these models on your own hardware, providing privacy, reduced latency, and no subscription costs.

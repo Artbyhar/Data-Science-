@@ -7,3 +7,6 @@
   Business Inteligence
   AIOT
 </li>
+<li>
+  Large Language Model
+</li>

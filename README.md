@@ -1,5 +1,5 @@
 # Data_Science
-<h2>Kumpulan codingan Data Science dan Rangkuman Materinya</h2>
+<h2>Collection of my learning and coding materials</h2>
 
 <li>
   <a href="AI">AI</a>

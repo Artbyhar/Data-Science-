@@ -5,7 +5,7 @@
   <a href="AI">AI</a>
 </li>
 <li>
-  <a href="Business intelligence">Business Inteligencel</a>
+  <a href="Business intelligence">Business Inteligencel : </a>
 </li>
 <li>
   <a href="#">Risk Analysis</a>

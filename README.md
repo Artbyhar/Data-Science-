@@ -1,4 +1,4 @@
-# Data Science Universitas Kristen Satya Wacana
+# Data Science 
 <h2>Collection of my learning and coding materials : </h2>
 
 <li>

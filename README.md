@@ -2,7 +2,6 @@
 
 *Empowering Insights, Accelerating Innovation in Data Science*
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Jupyter](https://img.shields.io/badge/jupyter-notebook-FFA500)
 ![Language](https://img.shields.io/badge/language-python-blue)
 

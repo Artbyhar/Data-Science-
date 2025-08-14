@@ -28,9 +28,9 @@
 **Data-Science-** is an all-in-one developer tool that consolidates data science resources, datasets, and code examples to facilitate learning and practical application of AI and data mining techniques.  
 It serves as a central hub for exploring diverse topics such as deep learning, big data, and large language models, empowering developers to build and refine intelligent systems.
 
-### Why Data-Science-?
+### Why Data-Science-
 This project aims to support developers in mastering data-driven insights through comprehensive resources and hands-on examples.  
-The core features include:
+The core features include :
 
 - **📚 Resource Hub:** Organized overview of key data science topics and tools for quick reference.
 - **🗂️ Datasets & Code:** Extensive collection of datasets and source codes for real-world experimentation.
